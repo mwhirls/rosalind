@@ -1,2 +1,3 @@
-# rosalind
-Solutions to the Rosalind bioinformatics problems in Rust
+# rosalind 
+
+Solutions to the Rosalind bioinformatics 🧬 problems in Rust 🦀
