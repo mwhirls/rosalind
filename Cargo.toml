@@ -16,3 +16,7 @@ path = "src/rna.rs"
 [[bin]]
 name = "revc"
 path = "src/revc.rs"
+
+[[bin]]
+name = "fib"
+path = "src/fib.rs"
