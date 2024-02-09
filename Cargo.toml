@@ -20,3 +20,7 @@ path = "src/revc.rs"
 [[bin]]
 name = "fib"
 path = "src/fib.rs"
+
+[[bin]]
+name = "gc"
+path = "src/gc.rs"
